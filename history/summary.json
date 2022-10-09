@@ -4,18 +4,20 @@
     "url": "https://kindlemanga.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/kindlemanga.xyz.ico",
     "slug": "kindle-manga",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 532,
-    "timeDay": 677,
-    "timeWeek": 576,
-    "timeMonth": 532,
-    "timeYear": 532,
-    "dailyMinutesDown": {}
+    "time": 530,
+    "timeDay": 583,
+    "timeWeek": 565,
+    "timeMonth": 530,
+    "timeYear": 530,
+    "dailyMinutesDown": {
+      "2022-10-09": 0
+    }
   },
   {
     "name": "Hacker News",
