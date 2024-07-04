@@ -4,7 +4,7 @@
     "url": "https://kindlemanga.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/kindlemanga.xyz.ico",
     "slug": "kindle-manga",
-    "status": "up",
+    "status": "down",
     "uptime": "81.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 718,
     "timeYear": 570,
     "dailyMinutesDown": {
+      "2024-07-04": 0,
       "2024-06-18": 32,
       "2024-03-20": 493,
       "2024-03-19": 1440,
