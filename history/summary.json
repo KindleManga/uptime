@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/kindlemanga.xyz.ico",
     "slug": "kindle-manga",
     "status": "down",
-    "uptime": "62.06%",
+    "uptime": "62.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "3.16%",
     "time": 1917,
-    "timeDay": 39,
-    "timeWeek": 180,
-    "timeMonth": 207,
+    "timeDay": 170,
+    "timeWeek": 175,
+    "timeMonth": 204,
     "timeYear": 2420,
     "dailyMinutesDown": {
-      "2026-05-08": 170,
+      "2026-05-09": 165,
+      "2026-05-08": 1440,
       "2026-05-07": 1440,
       "2026-05-06": 1440,
       "2026-05-05": 1440,
@@ -370,8 +371,7 @@
       "2025-05-13": 1440,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
-      "2025-05-10": 1440,
-      "2025-05-09": 1440
+      "2025-05-10": 1440
     }
   },
   {
@@ -386,9 +386,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 326,
-    "timeDay": 95,
-    "timeWeek": 319,
-    "timeMonth": 315,
+    "timeDay": 375,
+    "timeWeek": 324,
+    "timeMonth": 319,
     "timeYear": 317,
     "dailyMinutesDown": {
       "2026-03-29": 79
